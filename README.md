@@ -21,6 +21,9 @@ It is strongly recommended to NOT change "switch puppies" and "look left/right" 
 
 Default controller buttons for Jump, Bark, Sniff and Roll, as well as default look left/right controller buttons, are a bit all over the place. It is recommended to change them in the game "control" menu after applying this fix to the game folder. Check Recommended controller buttons below.
 
+If for any reason the native xinput is not working then you can just use the custom
+layer and re map the xbox buttons in d3d9.ini.
+
 You can fully edit the controller mapping in the d3d9.ini instructions are all included inside of the ini.
 
 # Information 
