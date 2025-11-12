@@ -60,6 +60,10 @@ Credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
 Credit to Elisha Riedlinger for dxwrapper
 
+# Issues
+If you have any issues please go to discord for help 
+
+https://discord.gg/eVJ7sQH7Cc
 
 # Chip-Biscuit
 “Creating compatibility fixes and enhancements for legacy PC games.”
