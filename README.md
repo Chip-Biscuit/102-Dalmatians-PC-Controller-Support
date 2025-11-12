@@ -57,8 +57,9 @@ Bonus: If you want XBOX controller button prompts, change keyboard buttons to li
 
 # Credits
 Credit to Elisha Riedlinger for the base wrapper and 13 AG.
+
 Credit to Elisha Riedlinger for dxwrapper
-Brought to you by Chip
+
 
 # Chip-Biscuit
 “Creating compatibility fixes and enhancements for legacy PC games.”
