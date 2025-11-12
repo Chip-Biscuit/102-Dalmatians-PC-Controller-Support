@@ -17,13 +17,6 @@ Features full controller support, including right stick camera movement and swit
 
 Supports only Xbox controllers (or controllers, emulated as an Xbox one, via tools such as DS4Windows or x360ce.)
 
-It is strongly recommended to NOT change "switch puppies" and "look left/right" options in the control menu. Since the game doesn't support right stick camera movement by default, default values from this menu are utilized.
-
-Default controller buttons for Jump, Bark, Sniff and Roll, as well as default look left/right controller buttons, are a bit all over the place. It is recommended to change them in the game "control" menu after applying this fix to the game folder. Check Recommended controller buttons below.
-
-If for any reason the native xinput is not working then you can just use the custom
-layer and re map the xbox buttons in d3d9.ini.
-
 You can fully edit the controller mapping in the d3d9.ini instructions are all included inside of the ini.
 
 # Information 
@@ -32,6 +25,32 @@ This fix will also enable highest anti-aliasing and Anisotropic Filtering  possi
 
 It's done via Elisha's wrapper 
 
+# Custom Controller Support 
+
+To use the original controls to X-input using my custom layer go to the bottom of the page and download 
+
+***102DalmatiansPRECONFIGURED.zip***
+
+Unzip the file and put the contents into the games installation folder next to ***game***.exe 
+
+leave the controls in the game as the default controls.
+
+![102dalmpcinputconfig](https://github.com/user-attachments/assets/fb464531-200b-48fd-9169-df5e69401b5b)
+
+<img width="1920" height="1080" alt="102dalmatians" src="https://github.com/user-attachments/assets/d34d9e03-ce8c-43f0-b33c-060ec325d340" />
+
+
+# If native X-Input is working in the game
+
+Go to the bottom of the page and download 
+
+***102DalmatiansControllerNATIVEXINPUT.zip***
+
+unzip the folder and put the contents into the games installation location next to ***game***.exe then the following instructions: 
+
+It is strongly recommended to NOT change "switch puppies" and "look left/right" options in the control menu. Since the game doesn't support right stick camera movement by default, default values from this menu are utilized.
+
+Default controller buttons for Jump, Bark, Sniff and Roll, as well as default look left/right controller buttons, are a bit all over the place. It is recommended to change them in the game "control" menu after applying this fix to the game folder. Check Recommended controller buttons below.
 
 # Recommended controller buttons (Under Config 2) are:
 
@@ -70,6 +89,7 @@ https://discord.gg/eVJ7sQH7Cc
 
 # Chip-Biscuit
 “Creating compatibility fixes and enhancements for legacy PC games.”
+
 
 
 # Chip
