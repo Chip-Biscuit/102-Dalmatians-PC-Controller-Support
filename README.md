@@ -19,7 +19,7 @@ Supports only Xbox controllers (or controllers, emulated as an Xbox one, via too
 
 It is strongly recommended to NOT change "switch puppies" and "look left/right" options in the control menu. Since the game doesn't support right stick camera movement by default, default values from this menu are utilized.
 
-Default controller buttons for Jump, Bark, Sniff and Roll, as well as default look left/right controller buttons, are a bit all over the place. It is recommended to change them in the game "control" menu after applying this fix to the game folder.
+Default controller buttons for Jump, Bark, Sniff and Roll, as well as default look left/right controller buttons, are a bit all over the place. It is recommended to change them in the game "control" menu after applying this fix to the game folder. Check Recommended controller buttons below.
 
 You can fully edit the controller mapping in the d3d9.ini instructions are all included inside of the ini.
 
