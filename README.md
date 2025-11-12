@@ -23,6 +23,13 @@ Default controller buttons for Jump, Bark, Sniff and Roll, as well as default lo
 
 You can fully edit the controller mapping in the d3d9.ini instructions are all included inside of the ini.
 
+# Information 
+
+This fix will also enable highest anti-aliasing and Anisotropic Filtering  possible and will automagically apply the highest screen resolution accessible for screen that is currently in use
+
+It's done via Elisha's wrapper 
+
+
 # Recommended controller buttons (Under Config 2) are:
 
 Jump - A (Joy button1)
