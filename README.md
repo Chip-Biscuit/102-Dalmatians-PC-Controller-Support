@@ -36,44 +36,7 @@ Installation:
 -(optional) If the game added to the steam library, be sure to turn Steam Input off for the game.
 -Check "Important" section below.
 
-# Important:
-
-It is strongly recommended to NOT change "switch puppies" and "look left/right" in Config 1 options in the control menu. Since the game doesn't support right stick camera movement by default, default values from this menu are utilized.
-
-Default controller buttons for Jump, Bark, Sniff and Roll, as well as default look left/right controller buttons (Config 2), are a bit all over the place. It is recommended to change them in the game "control" menu after installing the fix. To do so, you have to use keyboard, press "Enter" on each button and just then press any controller button you want to map.
-
-# Recommended controller buttons (Under Config 2) are:
- 
-Jump - A (Joy button1)
-
-Bark - X (Joy button3)
-
-Sniff - Y (Joy button4)
-
-Roll - B (Joy button2)
-
-Look Left - LB (Joy button5)
-
-Look Right - RB (Joy button6)
- 
-
-Aside of those buttons above, there's the buttons mapped by default:
-
-BACK - Switch puppies
-
-START - Pause menu 
-
-Right stick - Camera movement
-
-Left stick (press) - menu
-
-DPAD - nothing
-
-Triggers - nothing 
-
-Bonus: If you want XBOX controller button prompts, change keyboard buttons to literal "X", "A", "B" and "Y" keyboard buttons (Buttons under Config 1) as shown on the screenshot.
-
-<img width="2559" height="1439" alt="1_2" src="https://github.com/user-attachments/assets/434ffcf0-09aa-4b5e-8ce7-2230182bbfb6" />
+<img width="2559" height="1439" alt="1_2" src="https://github.com/user-attachments/assets/faff0f3d-22d4-4d55-9473-d182968179f1" />
 
 
 <img width="1920" height="1080" alt="102dalmatians" src="https://github.com/user-attachments/assets/f5323ac4-9822-4921-8318-201e1e9d9b88" />
@@ -90,8 +53,6 @@ https://discord.gg/eVJ7sQH7Cc
 
 # Chip-Biscuit
 “Creating compatibility fixes and enhancements for legacy PC games.”
-
-
 
 # Chip
 - founder
