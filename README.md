@@ -34,7 +34,8 @@ Installation:
 -(optional) If the game added to the steam library, be sure to turn Steam Input off for the game.
 -Check "Important" section below.
 
-<img width="2559" height="1439" alt="1_2" src="https://github.com/user-attachments/assets/faff0f3d-22d4-4d55-9473-d182968179f1" />
+
+![102dalmpcinputconfig](https://github.com/user-attachments/assets/5d13984c-0919-49be-b0be-47860a05dbeb)
 
 
 <img width="1920" height="1080" alt="102dalmatians" src="https://github.com/user-attachments/assets/f5323ac4-9822-4921-8318-201e1e9d9b88" />
