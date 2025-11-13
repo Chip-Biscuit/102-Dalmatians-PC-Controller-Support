@@ -27,8 +27,6 @@ Go to releases and download
 
 unzip the folder and put the contents into the games installation location next to ***pcdogs***.exe then the following instructions: 
 
-Features full controller support, including right stick camera movement and switch puppies button (aren't present in the default configs of the game). Supports only Xbox controllers.
-
 This fix also includes Elisha's wrapper, which also fixes Widescreen resolution, and adds anti-aliasing and Anisotropic Filtering for smoother image. (can be turned off in dxwrapper.ini)
 
 Installation:
