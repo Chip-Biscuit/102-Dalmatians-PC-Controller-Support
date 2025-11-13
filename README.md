@@ -19,56 +19,57 @@ Supports only Xbox controllers (or controllers, emulated as an Xbox one, via too
 
 You can fully edit the controller mapping in the d3d9.ini instructions are all included inside of the ini.
 
-# Information 
+# built-in controller input from the game
 
-This fix will also enable highest anti-aliasing and Anisotropic Filtering  possible and will automagically apply the highest screen resolution accessible for screen that is currently in use
+Go to releases and download 
 
-It's done via Elisha's wrapper 
+***102DalmatiansController.zip***
 
-# Custom Controller Support 
+unzip the folder and put the contents into the games installation location next to ***pcdogs***.exe then the following instructions: 
 
-To use the original controls to X-input using my custom layer go to the bottom of the page and download 
+Features full controller support, including right stick camera movement and switch puppies button (aren't present in the default configs of the game). Supports only Xbox controllers.
 
-***102DalmatiansPRECONFIGURED.zip***
+This fix also includes Elisha's wrapper, which also fixes Widescreen resolution, and adds anti-aliasing and Anisotropic Filtering for smoother image. (can be turned off in dxwrapper.ini)
 
-Unzip the file and put the contents into the games installation folder next to ***game***.exe 
+Installation:
+-Drop the files from archive into the game folder (next to pcdogs.exe)
+-(optional) If the game added to the steam library, be sure to turn Steam Input off for the game.
+-Check "Important" section below.
 
-leave the controls in the game as the default controls.
+# Important:
 
-![102dalmpcinputconfig](https://github.com/user-attachments/assets/fb464531-200b-48fd-9169-df5e69401b5b)
+It is strongly recommended to NOT change "switch puppies" and "look left/right" in Config 1 options in the control menu. Since the game doesn't support right stick camera movement by default, default values from this menu are utilized.
 
-<img width="1920" height="1080" alt="102dalmatians" src="https://github.com/user-attachments/assets/d34d9e03-ce8c-43f0-b33c-060ec325d340" />
-
-
-# If native X-Input is working in the game
-
-Go to the bottom of the page and download 
-
-***102DalmatiansControllerNATIVEXINPUT.zip***
-
-unzip the folder and put the contents into the games installation location next to ***game***.exe then the following instructions: 
-
-It is strongly recommended to NOT change "switch puppies" and "look left/right" options in the control menu. Since the game doesn't support right stick camera movement by default, default values from this menu are utilized.
-
-Default controller buttons for Jump, Bark, Sniff and Roll, as well as default look left/right controller buttons, are a bit all over the place. It is recommended to change them in the game "control" menu after applying this fix to the game folder. Check Recommended controller buttons below.
+Default controller buttons for Jump, Bark, Sniff and Roll, as well as default look left/right controller buttons (Config 2), are a bit all over the place. It is recommended to change them in the game "control" menu after installing the fix. To do so, you have to use keyboard, press "Enter" on each button and just then press any controller button you want to map.
 
 # Recommended controller buttons (Under Config 2) are:
-
+ 
 Jump - A (Joy button1)
-Bark - X (Joy button3)
-Sniff - Y (Joy button4)
-Roll - B (Joy button2)
-Look Left - LB (Joy button5)
-Look Right - RB (Joy button6)
 
-# Aside of those buttons, there's the buttons mapped by default:
+Bark - X (Joy button3)
+
+Sniff - Y (Joy button4)
+
+Roll - B (Joy button2)
+
+Look Left - LB (Joy button5)
+
+Look Right - RB (Joy button6)
+ 
+
+Aside of those buttons above, there's the buttons mapped by default:
 
 BACK - Switch puppies
-START - Pause menu
+
+START - Pause menu 
+
 Right stick - Camera movement
-Left stick (press) - menu 
+
+Left stick (press) - menu
+
 DPAD - nothing
-Triggers - nothing
+
+Triggers - nothing 
 
 Bonus: If you want XBOX controller button prompts, change keyboard buttons to literal "X", "A", "B" and "Y" keyboard buttons (Buttons under Config 1) as shown on the screenshot.
 
