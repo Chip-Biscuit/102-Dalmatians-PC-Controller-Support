@@ -50,6 +50,7 @@ An effect of this fix can be the fact that in some cases it will make native X-i
 **for example** 
 
 *** A = NONE ***
+
 *** B = NONE ***
 
 you can do this for every input on the Xbox controller in the .ini file
