@@ -43,7 +43,22 @@ Installation:
 # Alternative user profile if the above doesn't work:  
 [![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3729-chipxinput-102-dalmatians-controller-calibration-fix/)
 
+# If you experience double input 
 
+An effect of this fix can be the fact that in some cases it will make native X-input work again in your game, in that case it is important to note that in this fix for each input inside of the .ini file you can put *** = NONE *** 
+
+**for example** 
+
+*** A = NONE ***
+*** B = NONE ***
+
+you can do this for every input on the Xbox controller in the .ini file
+
+this will disable completely the custom (chip-xinput) layer for the game but the native x-input will still work you can either put NONE for each key as in the example above OR at the top of the ini set  ***output = 0 ***
+
+Otherwise you would have an xbox button doing 2 inputs inside of the game like: 
+
+** Native A = Jump in game + Chip xinput = LMB in game at the same time **
 
 # Credits
 Credit to Elisha Riedlinger for the base wrapper and 13 AG.
