@@ -45,7 +45,7 @@ Installation:
 
 # If you experience double input 
 
-An effect of this fix can be the fact that in some cases it will make native X-input work again in your game, in that case it is important to note that in this fix for each input inside of the .ini file you can put *** = NONE *** 
+An effect of this fix can be the fact that in some cases it will make native X-input work again in your game, in that case it is important to note that in this fix for each input inside of the .ini file you can put ***= NONE*** 
 
 **for example** 
 
