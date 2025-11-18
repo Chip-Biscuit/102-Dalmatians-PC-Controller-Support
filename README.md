@@ -64,10 +64,3 @@ https://discord.gg/eVJ7sQH7Cc
 - developer
   
 <img width="250" height="500" alt="my logoo" src="https://github.com/user-attachments/assets/9bb13d3f-0734-4f1d-b68f-14114b13744a" />
-
-<br>
-
-# Roman Nikolaev
-<img width="100" height="100" alt="YouTube_Logo" src="https://github.com/user-attachments/assets/9ef381e5-a1e8-4806-bfdb-4499749307cf" /> <br>
-- Role (Moderator, Tester) 
-
