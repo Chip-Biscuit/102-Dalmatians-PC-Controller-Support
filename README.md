@@ -37,9 +37,6 @@ Installation:
 
 ![102dalmpcinputconfig](https://github.com/user-attachments/assets/5d13984c-0919-49be-b0be-47860a05dbeb)
 
-
-<img width="1920" height="1080" alt="102dalmatians" src="https://github.com/user-attachments/assets/f5323ac4-9822-4921-8318-201e1e9d9b88" />
-
 # Alternative user profile if the above doesn't work:  
 [![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3729-chipxinput-102-dalmatians-controller-calibration-fix/)
 
