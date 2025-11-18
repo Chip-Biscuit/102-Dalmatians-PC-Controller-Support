@@ -58,7 +58,6 @@ https://discord.gg/eVJ7sQH7Cc
 “Creating compatibility fixes and enhancements for legacy PC games.”
 
 # Chip
-- founder
 - reverse engineer
 - programmer
 - developer
