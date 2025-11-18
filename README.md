@@ -30,10 +30,7 @@ This fix also includes Elisha's wrapper, which also fixes Widescreen resolution,
 Installation:
 -Drop the files from archive into the game folder (next to pcdogs.exe)
 -(optional) If the game added to the steam library, be sure to turn Steam Input off for the game.
--Check "Important" section below.
-
-
-![102dalmpcinputconfig](https://github.com/user-attachments/assets/5d13984c-0919-49be-b0be-47860a05dbeb)
+-Follow the guide below to set the controlls to follow the image below the guide.
 
 # Alternative user profile:  
 [![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3729-chipxinput-102-dalmatians-controller-calibration-fix/)
