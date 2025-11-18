@@ -28,8 +28,11 @@ unzip the folder and put the contents into the games installation location next 
 This fix also includes Elisha's wrapper, which also fixes Widescreen resolution, and adds anti-aliasing and Anisotropic Filtering for smoother image. (can be turned off in dxwrapper.ini)
 
 Installation:
+
 -Drop the files from archive into the game folder (next to pcdogs.exe)
+
 -(optional) If the game added to the steam library, be sure to turn Steam Input off for the game.
+
 -Follow the guide below to set the controlls to follow the image below the guide.
 
 # Alternative user profile:  
