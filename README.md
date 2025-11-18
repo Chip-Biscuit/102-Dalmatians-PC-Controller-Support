@@ -29,11 +29,11 @@ This fix also includes Elisha's wrapper, which also fixes Widescreen resolution,
 
 Installation:
 
--Drop the files from archive into the game folder (next to pcdogs.exe)
+- Drop the files from archive into the game folder (next to pcdogs.exe)
 
--(optional) If the game added to the steam library, be sure to turn Steam Input off for the game.
+- (optional) If the game added to the steam library, be sure to turn Steam Input off for the game.
 
--Follow the guide below to set the controlls to follow the image below the guide.
+- Follow the guide below to set the controlls to follow the image below the guide.
 
 # Alternative user profile:  
 [![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3729-chipxinput-102-dalmatians-controller-calibration-fix/)
@@ -42,10 +42,6 @@ follow this awesome guide it will make your controller layout as follows:
 
 <img width="1920" height="1080" alt="102dalmatians" src="https://github.com/user-attachments/assets/0e8594d5-0290-49fe-bcd6-333ae533348a" />
 
-
-# Output = 0 
-
-This is set by default in this game and recomended to leave it this way, what this will achieve is the games native controller functionality.
 
 # Credits
 Credit to Elisha Riedlinger for the base wrapper and 13 AG.
