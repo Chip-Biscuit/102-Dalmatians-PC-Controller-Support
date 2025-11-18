@@ -13,11 +13,9 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 
 # 102-Dalmatians-PC-Controller-Support
 
-Features full controller support, including right stick camera movement and switch puppies button (aren't present in the default configs of the game)
+Features full controller support.
 
 Supports only Xbox controllers (or controllers, emulated as an Xbox one, via tools such as DS4Windows or x360ce.)
-
-You can fully edit the controller mapping in the d3d9.ini instructions are all included inside of the ini.
 
 # built-in controller input from the game
 
@@ -37,26 +35,17 @@ Installation:
 
 ![102dalmpcinputconfig](https://github.com/user-attachments/assets/5d13984c-0919-49be-b0be-47860a05dbeb)
 
-# Alternative user profile if the above doesn't work:  
+# Alternative user profile:  
 [![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3729-chipxinput-102-dalmatians-controller-calibration-fix/)
 
-# If you experience double input 
+follow this awesome guide it will make your controller layout as follows: 
 
-An effect of this fix can be the fact that in some cases it will make native X-input work again in your game, in that case it is important to note that in this fix for each input inside of the .ini file you can put ***= NONE*** 
+<img width="1920" height="1080" alt="102dalmatians" src="https://github.com/user-attachments/assets/0e8594d5-0290-49fe-bcd6-333ae533348a" />
 
-**for example** 
 
-***A = NONE***
+# Output = 0 
 
-***B = NONE***
-
-you can do this for every input on the Xbox controller in the .ini file
-
-this will disable completely the custom (chip-xinput) layer for the game but the native x-input will still work you can either put NONE for each key as in the example above OR at the top of the ini set  ***output = 0***
-
-Otherwise you would have an xbox button doing 2 inputs inside of the game like: 
-
-**Native A = Jump in game + Chip xinput = LMB in game at the same time**
+This is set by default in this game and recomended to leave it this way, what this will achieve is the games native controller functionality.
 
 # Credits
 Credit to Elisha Riedlinger for the base wrapper and 13 AG.
