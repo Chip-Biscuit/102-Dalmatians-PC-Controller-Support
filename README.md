@@ -27,7 +27,7 @@ unzip the folder and put the contents into the games installation location next 
 
 This fix also includes Elisha's wrapper, which also fixes Widescreen resolution, and adds anti-aliasing and Anisotropic Filtering for smoother image. (can be turned off in dxwrapper.ini)
 
-This wrapper can be a little buggy with more than one monitor from personal experience just playing the game with one monitor only worked perfectly. 
+The dxwrapper can be a little buggy with more than one monitor from personal experience just playing the game with one monitor only worked perfectly. 
 
 Installation:
 
