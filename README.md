@@ -33,7 +33,6 @@ Installation:
 
 - (optional) If the game added to the steam library, be sure to turn Steam Input off for the game.
 
-- Follow the guide below to set the controlls to follow the image below the guide.
 
 # Alternative user profile:  
 [![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3729-chipxinput-102-dalmatians-controller-calibration-fix/)
