@@ -27,7 +27,7 @@ Go to releases and download
 
 unzip the folder and put the contents into the games installation location next to ***pcdogs***.exe then the following instructions: 
 
-You can edit the controls in the game control options by clicking on a joystick inpit presing the button you want on the controller and pressing enter on the keyboard then save and you have the controls you want.
+You can edit the controls in the game control options by clicking on a joystick input pressing the button you want on the controller and pressing enter on the keyboard then save and you have the controls you want.
 
 This fix also includes Elisha's wrapper, which also fixes Widescreen resolution, and adds anti-aliasing and Anisotropic Filtering for smoother image. (can be turned off in dxwrapper.ini)
 
