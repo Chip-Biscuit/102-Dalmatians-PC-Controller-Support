@@ -19,7 +19,7 @@ Supports only Xbox controllers (or controllers, emulated as an Xbox one, via too
 
 # built-in controller input from the game
 
-This re enables the original game xinput controller.
+This re enables the original game xinput controller support for the game.
 
 Go to releases and download 
 
