@@ -45,7 +45,7 @@ Installation:
 
 follow this awesome guide it will make your controller layout as follows: 
 
-It is possible on some versions of the hame the pcgw method may cause crashing.
+It is possible on some versions of the game the pcgw method may cause crashing.
 
 <img width="1920" height="1080" alt="102dalmatians" src="https://github.com/user-attachments/assets/0e8594d5-0290-49fe-bcd6-333ae533348a" />
 
